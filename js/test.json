@@ -1,0 +1,22 @@
+{
+  "ACR": [
+      {
+          "ProductName": "Adobe Acrobat",
+          "ProductVersion": "DC",
+          "ProductDescription": "This is Acrobat",
+          "ReportDate": "October 2017",
+          "StandardEvalMethod":	"yes/no",
+          "Nonstandard Evalution": "Desc",
+          "WCAG level":	"A / AA / AAA",
+          "508_2017":	"Yes / No",
+          "EN301549":	"Yes / No",
+          "Criteria": {
+              "1.1.1": { 
+                "Conformance": "",
+                "Software": "S",
+                "Remarks": "DNS"
+              }
+          }
+      }
+    ]
+} 
